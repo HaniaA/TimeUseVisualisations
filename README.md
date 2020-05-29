@@ -7,7 +7,8 @@ This project uses Google Calendar API to obtain data from user's Google Calendar
 
 Pie chart of total time use:<br><br>
 <img src="/images/piechart.jpg" width="400">
-<br>
+
+<br><br>
 Table of top 10 activities registered in the calendar:<br><br>
 <img src="/images/table.jpg" width="400">
 
