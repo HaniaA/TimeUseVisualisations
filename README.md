@@ -1,7 +1,7 @@
 # Time Use Visualisations
 Time use visualisations based on calendar data.
 
-This project uses Google Calendar API to obtain data from user's Google Calendar and use it to produce visualisations of how he or she spent her time in a given period.
+This project uses Google Calendar API to obtain data from users' Google Calendar and use it to produce visualisations of how they used their time in a given period. The aim of the project was to enable people to use the existing data that they have in order to gain some insights about what they spend their time on and see if what their time is spent on reflects their priorities and values.
 
 ## Examples
 
