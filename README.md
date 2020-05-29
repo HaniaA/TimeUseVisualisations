@@ -13,8 +13,8 @@ Table of top 10 activities registered in the calendar:<br><br>
 
 ## How to use?
 
-Step 1: Download the project.
-Step 2: Turn on Google Calendar API and get your API keys: https://developers.google.com/calendar/quickstart/js#step_1_turn_on_the
-Step 3: Place the credentials obtained in Step 2 in the "credentials" folder in the project directory.
-Step 4: Replace "myemail@gmail.com" with the email associated with your Google Calendar
-Step 5: Enjoy your time use visualisations!
+Step 1: Download the project.<br>
+Step 2: Turn on Google Calendar API and get your API keys: https://developers.google.com/calendar/quickstart/js#step_1_turn_on_the<br>
+Step 3: Place the credentials obtained in Step 2 in the "credentials" folder in the project directory.<br>
+Step 4: Replace "myemail@gmail.com" with the email associated with your Google Calendar<br>
+Step 5: Enjoy your time use visualisations!<br>
