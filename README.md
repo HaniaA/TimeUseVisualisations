@@ -3,13 +3,13 @@ Time use visualisations based on calendar data.
 
 This project uses Google Calendar API to obtain data from user's Google Calendar and use it to produce visualisations of how he or she spent her time in a given period.
 
-# Preview
+## Examples
 
-Pie chart of total time use:
-![Pie Chart](/images/piechart.png)
-
-Table of top 10 activities registered in the calendar:
-![Top 10 activities table](/images/table.png)
+Pie chart of total time use:<br><br>
+<img src="/images/piechart.jpg" width="400">
+<br>
+Table of top 10 activities registered in the calendar:<br><br>
+<img src="/images/table.jpg" width="400">
 
 ## How to use?
 
